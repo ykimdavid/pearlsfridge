@@ -4,7 +4,11 @@
 html, body {
   background: #ffffff;
   cursor: pointer;
+<<<<<<< HEAD
   font-family: Almarai;
+=======
+  font-family: Inter;
+>>>>>>> aee95b26d7348edbec6b6e3174f6a9116b046b01
 }
 
 a:hover{
@@ -34,7 +38,11 @@ a:hover{
 }
 
 #title{
+<<<<<<< HEAD
   font-family: Almarai;
+=======
+  font-family: Inter;
+>>>>>>> aee95b26d7348edbec6b6e3174f6a9116b046b01
   font-size: 25px;
 }
 
