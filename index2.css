@@ -4,7 +4,7 @@
 html, body {
   background: #ffffff;
   cursor: pointer;
-  font-family: Almarai;
+  font-family: Inter;
 }
 
 a:hover{
@@ -34,7 +34,7 @@ a:hover{
 }
 
 #title{
-  font-family: Almarai;
+  font-family: Inter;
   font-size: 25px;
 }
 
